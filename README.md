@@ -1,6 +1,6 @@
 # ESP32 AI predict sine function by regression model
-Implement AI predict of " sine(x) " function from " x " values by Regression model for Espressif ESP32 boards
-
+ Implement AI predict the output of the sine function " sine(x) " from " x " values by Regression model for Espressif Systems ESP32 boards 
+ 
 ### If you need any help or information:
 :large_blue_circle:	 Facebook: https://www.facebook.com/walidamriou   
 :large_blue_circle:  Twitter: https://twitter.com/walidamriou    
